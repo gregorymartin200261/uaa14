@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj": {}
+    "G:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj": {}
   },
   "projects": {
-    "E:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj": {
+    "G:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj",
+        "projectUniqueName": "G:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj",
         "projectName": "ex_rev_rentrée_2022",
-        "projectPath": "E:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj",
-        "packagesPath": "C:\\Users\\200261\\.nuget\\packages\\",
-        "outputPath": "E:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\obj\\",
+        "projectPath": "G:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022.csproj",
+        "packagesPath": "C:\\Users\\gregg\\.nuget\\packages\\",
+        "outputPath": "G:\\ex_git\\ex_rev_rentrée_2022\\ex_rev_rentrée_2022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\200261\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gregg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

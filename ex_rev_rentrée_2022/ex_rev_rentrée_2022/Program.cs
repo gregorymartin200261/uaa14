@@ -6,13 +6,19 @@ namespace ex_rev_rentrée_2022
     {
         static void Main(string[] args)
         {
-            methode utils = new methode();
+            string Question= "Rentrer vos chiffres.";
+            methode Utils = new methode();
+            double[] UserEnter = new double[10];
             for (int i = 0; i < 10; i++)
             {
-                double[] UserEnter = new double[10];
-                utils.Lecture(question)
+                UserEnter[i] = Utils.Lecture(Question);
             }
-            
+            double Moyenne = Utils.Compil(UserEnter);
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Moyenne:"+Moyenne);
+            Console.ReadLine();
         }
     }
 }
